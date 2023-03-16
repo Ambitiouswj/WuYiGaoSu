@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/con1">
+        <file>BianJi.png</file>
+        <file>Che.png</file>
+        <file>JianKong.png</file>
+        <file>LuZhuang.png</file>
+        <file>QuXian.png</file>
+        <file>Ren.png</file>
+        <file>SheBei.png</file>
+        <file>ShiPing.png</file>
+        <file>ShuaXin.png</file>
+        <file>ShuJu.png</file>
+        <file>TouXiang.png</file>
+        <file>WeiZhi.png</file>
+        <file>ZuoBiao.png</file>
+    </qresource>
+</RCC>
